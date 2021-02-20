@@ -1,0 +1,7 @@
+{
+ "content-scripts":[
+     {
+         "js": ["dev.js"]
+     }
+ ]
+}
